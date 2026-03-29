@@ -14,6 +14,7 @@ Traditional cricket metrics such as runs, average, and strike rate provide limit
 
 ## 📊 Dataset
 
+[The official Kaggle IPL Dataset](https://www.kaggle.com/datasets/chaitu20/ipl-dataset2008-2025)
 The dataset consists of ball-by-ball IPL match data, including information such as:
 
 * Batter name
